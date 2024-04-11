@@ -39,6 +39,7 @@ Napisz program (na dwa sposoby), który sprawdza czy wczytany pojedynczy znak je
     
     
 Przedstawione w niniejszym repozytorium rozwiązania opierały się na dokumentacji:
+
 a) [https://docs.python.org/3/library/math.html]
 
 b) [https://docs.python.org/3/library/sys.html]
