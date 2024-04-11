@@ -1,5 +1,5 @@
-# IsiLab11.
-Przed badającym został postawiony następujący zestaw zadan: 
+# ISI Laboratorium nr 1..
+Przed badającym został postawiony następujący zestaw zadań: 
 
 Napisz program (na dwa sposoby), który sprawdza czy wczytany pojedynczy znak jest cyfrą lub nie.
     Jeśli wczytamy więcej znaków, należy wziąć tylko pierwszy.
